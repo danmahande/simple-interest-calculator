@@ -11,3 +11,4 @@ read t
 
 si=$(( (p * r/100 * t) / 100))
 echo "Simple Interest = $si"
+# This is a new feature added for the assignment
