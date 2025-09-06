@@ -14,5 +14,5 @@ It's people like you that make this project useful and successful.
 1. Fork the repository
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/your-username/simple-interest-calculator.git
+   git clone https://github.com/danmahande/simple-interest-calculator.git
    cd simple-interest-calculator
